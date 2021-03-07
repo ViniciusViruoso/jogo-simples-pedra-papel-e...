@@ -1,1 +1,3 @@
 # jogo-simples-pedra-papel-e...
+
+Joguinho feito no curso de JavaScript puro da DankiCode.com
